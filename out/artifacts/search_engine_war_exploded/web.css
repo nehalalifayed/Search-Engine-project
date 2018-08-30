@@ -1,0 +1,41 @@
+body
+{
+    background-image: url("patrick-tomasso-406271.jpg");
+    background-repeat: no-repeat;
+    font-family: calibri;
+}
+
+h1
+{
+/*    text-align: center;*/
+    margin-left: 400px;
+    text-transform: capitalize;
+    text-shadow: 10px;
+    font-size: 40px;
+    color : white;
+    margin-top: 250px;
+    margin-bottom: 20px;
+}
+.one
+{
+    width:500px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 360px;
+    padding-left:10px;
+    font-size: 20px;
+    border: 2px solid cornflowerblue;
+}
+.two
+{
+   font-size: 20px;
+    background-color:cornflowerblue;
+    color:white;
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+}
+.two:hover
+{
+    background-color: darkslategrey;
+}
